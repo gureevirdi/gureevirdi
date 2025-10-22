@@ -35,14 +35,42 @@
 
 ---
 
-### 🌸 Featured Projects
+<h3 align="center">✨ Showcasing what I build when passion meets logic ✨</h3>
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🌍 Portfolio Website](https://gurpreetcodes.com/) | Personal portfolio built with HTML, CSS, and JavaScript | HTML, CSS, JS |
-| [💹 Crypto Tracker](https://github.com/gureevirdi/crypto-tracker) | Real-time cryptocurrency tracking SPA | JavaScript, API |
-| [☁️ CloudRest](https://your-cloudrest-link-here) | RESTful API service with clean endpoints and layered architecture | Java, Spring Boot, REST |
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://gurpreetcodes.com/" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=111700&format=png&color=00BFFF" width="60" alt="Portfolio Icon"/>
+        <h4>🌍 Portfolio Website</h4>
+      </a>
+      <p><em>My digital home — a clean, responsive, and modern showcase of my work and personality.</em></p>
+      <b>Tech:</b> HTML · CSS · JavaScript
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/gureevirdi/crypto-tracker" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=FFD700" width="60" alt="Crypto Tracker Icon"/>
+        <h4>💹 Crypto Tracker</h4>
+      </a>
+      <p><em>Tracks live cryptocurrency prices using API integration — sleek, real-time, and data-driven.</em></p>
+      <b>Tech:</b> JavaScript · API
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/gureevirdi/LCOF2461" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=32CD32" width="60" alt="CloudRest Icon"/>
+        <h4>☁️ CloudRest</h4>
+      </a>
+      <p><em>RESTful backend service for managing data with scalable endpoints and secure structure.</em></p>
+      <b>Tech:</b> Java · Spring Boot · REST API
+    </td>
+  </tr>
+</table>
 
+<p align="center">
+  <a href="https://gurpreetcodes.com/" target="_blank">
+    <img src="https://img.shields.io/badge/👀%20Explore%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
