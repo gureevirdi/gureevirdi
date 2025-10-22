@@ -1,7 +1,7 @@
 <!-- 🌌 Zion.dev | Gurpreet Singh Virdi -->
 <h1 align="center">Hey there 👋, I'm Gurpreet Singh (Zion.dev)</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Gurpreet+(Zion.dev)+👋;Full+Stack+Developer+💻;Cloud+%26+DevOps+Explorer+☁️;Lifelong+Learner+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Gurpreet+(Zion.dev)+👋;Full+Stack+Developer+💻;Cloud+%26+DevOps+Explorer+☁️;Lifelong+Learner+🚀" alt="Typing Animation" />
 </p>
 <h3 align="center">Full-Stack Developer | Cloud & DevOps Explorer | Building with Passion and Purpose 💻</h3>
 
