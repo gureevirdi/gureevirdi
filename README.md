@@ -22,13 +22,13 @@
 
 ### 🌐 Connect & Explore  
 <p align="center">
-  <a href="https://zion.dev" target="_blank">
+  <a href="https://gurpreetcodes.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:c0932560@mylambton.ca">
     <img src="https://img.shields.io/badge/Email-c0932560@mylambton.ca-blue?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/gureevirdi">
+  <a href="https://www.linkedin.com/in/gurpreetsingh55/">
     <img src="https://img.shields.io/badge/LinkedIn-gureevirdi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
