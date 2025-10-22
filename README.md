@@ -35,12 +35,14 @@
 
 ---
 
-### 🧠 Featured Projects  
+### 🌸 Featured Projects
+
 | Project | Description | Tech |
-|----------|--------------|------|
-| [🌍 Portfolio Website](https://zion.dev) | Personal portfolio built with HTML, CSS, and JavaScript | HTML, CSS, JS |
+|--------|-------------|------|
+| [🌍 Portfolio Website](https://gurpreetcodes.com/) | Personal portfolio built with HTML, CSS, and JavaScript | HTML, CSS, JS |
 | [💹 Crypto Tracker](https://github.com/gureevirdi/crypto-tracker) | Real-time cryptocurrency tracking SPA | JavaScript, API |
-| [📚 Mini Library System](https://github.com/gureevirdi/LCOF2461) | Library app with CRUD operations | SQL, PL/SQL |
+| [☁️ CloudRest](https://your-cloudrest-link-here) | RESTful API service with clean endpoints and layered architecture | Java, Spring Boot, REST |
+
 
 ---
 
