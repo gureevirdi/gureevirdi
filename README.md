@@ -105,13 +105,10 @@
   <sub>Last updated: 2025 • Living, learning, and leveling up one commit at a time 🚀</sub>
 </p>
 
-### Snake Game
 ---
 
+### 🐍 Watch my contributions come alive
 <p align="center">
-  <img src="https://github.com/gureevirdi/gureevirdi/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="700" />
+  <img src="https://raw.githubusercontent.com/gureevirdi/gureevirdi/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="700" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750682-4bfb91b4-236e-47e0-9090-b3ac34d4e9bb.gif" width="200" alt="Glowing divider"/>
-</p>
